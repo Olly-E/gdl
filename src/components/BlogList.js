@@ -56,14 +56,14 @@ const Div = styled.div`
     margin: 0 auto;
     background:  #292d30;
     width: 100%;
-    border-radius: 2.5rem;
+    border-radius: 2.5rem 1rem 3.2rem 4rem;
     padding: 1rem 2rem;
     box-sizing: border-box;
     text-align: left;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+    /* border-top: 0.5px solid orange */
     h1 {
         font-size: 1.6rem;
         
